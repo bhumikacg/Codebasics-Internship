@@ -1,15 +1,11 @@
 # Codebasics Virtual Internship
-**🎥 LinkedIn Presentation** : _[Sales & Finance Analytics](https://www.linkedin.com/feed/update/urn:li:activity:7349360128380329984/)_  
+🎥 _[LinkedIn Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7349360128380329984/)_  
 
-**Presentation Video**: 
+ _[Power BI Dashboard and Data Model PDF](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Dashboard%20%26%20Data%20Model.pdf)_  
 
-**Presentation PDF** : _[Sales & Finance Analytics  ](https://github.com/bhumikacg/Excel-Sales-Finance_Analytics/blob/main/Slides%20of%20Sales%20and%20Finance%20Analytics.pdf)_  
+ _[Wavecon Slides PDF](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Wavecon%20telecom%20Analysis%20slides.pdf)_  
 
-
-**Power BI Dashboard and Data Model PDF** : 
-
-WaveCon Telecom 5G Analysis Presentation (.pptx)
-Presentation PDF
+_[Presentation Video](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Telecom%20Video%20Recording.mp4)_ 
 
 **📌  Project Overview:**
 
@@ -57,8 +53,8 @@ WaveCon Telecom recently launched 5G services across major cities in India. The 
 -	OBS Studio (Presentation Recording) 
 
 📂 Repository Contents: 
-WaveCon Telecom 5G Analysis Presentation (.pptx)
-Presentation PDF
-Power BI Dashboard and Data Model  Screenshots PDF
+- Telecom Video Recording (.pptx)
+- Wavecon telecom slides PDF
+- Dashboard and Data Model PDF
 
 **🙏 Acknowledgement to Codebasics:**  I sincerely thank **Dhaval Patel**, **Hemanand Vadivel**, and the **Codebasics** team for providing this excellent virtual internship experience. Working on real-world business scenarios has significantly strengthened my analytical, presentation, and communication skills.
