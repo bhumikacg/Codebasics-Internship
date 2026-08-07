@@ -1,5 +1,5 @@
 # Codebasics Virtual Internship
-🎥 _[LinkedIn Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7349360128380329984/)_  
+🎥 _[LinkedIn Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7491422702428119041/)_  
 
  _[Power BI Dashboard and Data Model PDF](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Dashboard%20%26%20Data%20Model.pdf)_  
 
