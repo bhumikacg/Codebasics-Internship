@@ -1,11 +1,11 @@
 # Codebasics Virtual Internship
 🎥 _[LinkedIn Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7491422702428119041/)_  
 
- _[Power BI Dashboard and Data Model PDF](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Dashboard%20%26%20Data%20Model.pdf)_  
+ _[Power BI Dashboard and Data Model PDF](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Shield%20Insurance/Shield%20Insurance%20Dashboard%20Screenshots.pdf)_  
 
- _[Wavecon Slides PDF](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Wavecon%20telecom%20Analysis%20slides.pdf)_  
+ _[Shield Insurance Slides PDF](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Shield%20Insurance/Shield%20Insurance%20Presentation.pdf)_  
 
-_[Presentation Video](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Telecom%20Video%20Recording.mp4)_ 
+_[Presentation Video](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Shield%20Insurance/Shield%20Insurance%20Audio%20Presentation.mp4)_ 
 
 **📌  Project Overview:**
 
