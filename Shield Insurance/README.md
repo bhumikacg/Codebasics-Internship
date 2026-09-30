@@ -1,7 +1,7 @@
 # Codebasics Virtual Internship
-🎥 _[LinkedIn Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7491422702428119041/)_  
+🎥 _[LinkedIn Presentation](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511092298848350210/)_  
 
- _[Power BI Dashboard and Data Model PDF](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Shield%20Insurance/Shield%20Insurance%20Dashboard%20Screenshots.pdf)_  
+ _[Dashboard Screenshots PDF](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Shield%20Insurance/Shield%20Insurance%20Dashboard%20Screenshots.pdf)_  
 
  _[Shield Insurance Slides PDF](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Shield%20Insurance/Shield%20Insurance%20Presentation.pdf)_  
 
