@@ -1,5 +1,5 @@
 # Codebasics Virtual Internship
-🎥 _[LinkedIn Presentation](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511092298848350210/)_  
+🎥 _[LinkedIn Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7516822139887554561/)_  
 
  _[Dashboard Screenshots PDF](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Shield%20Insurance/Shield%20Insurance%20Dashboard%20Screenshots.pdf)_  
 
