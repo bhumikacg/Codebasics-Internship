@@ -1,4 +1,6 @@
 # Codebasics Virtual Internship
+🎥 _[Project Presentation Video (Detailed Explanation):](https://drive.google.com/file/d/1PGfuQLiieXGzckQqgWh95PxQ053Slo6y/view?usp=sharing)_  
+📊 _[Power BI Dashboard:](https://app.powerbi.com/groups/me/reports/272a6629-430a-45bb-ac65-31bcafa2031f/22612a5cd5587dba23e8?experience=power-bi)_ 
 🎥 _[LinkedIn Presentation](https://www.linkedin.com/feed/update/urn:li:activity:7491422702428119041/)_  
 
  _[Power BI Dashboard and Data Model PDF](https://github.com/bhumikacg/Codebasics-Internship/blob/main/Dashboard%20%26%20Data%20Model.pdf)_  
